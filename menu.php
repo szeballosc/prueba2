@@ -17,8 +17,8 @@
     <div class="">
       <h1>CALIFORNIA</h1><br>
       <h4>ENVUELTOS EN SESAMO O MASAGO</h4><br>
-      <div class="">
-        <img src="C:\Users\reime\Desktop\Caso2\"><br>
+      <div class="imágenes\maguro_roll.png">
+        <img src=""><br>
         <h3>MAGURO ROLL</h3><h3>$6200</h3>
         <h5>Kanikama y palta</h5>
       </div>
@@ -27,7 +27,7 @@
       </div>
     </div>
     <div class="">
-owo uwu 
+
     </div>
     <div class="">
 
